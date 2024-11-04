@@ -24,10 +24,20 @@ div #seccion1{
 
 h1 {
     color: gray;
+    font-size: 20px;
     background-color: lightyellow;
     margin: 50px;
     padding: 50px;
-    border: 2px solid black;
+   
+}
+
+#titulo{
+    color: rgb(86, 86, 86);
+    font-size: 50px;
+    background-color: rgb(254, 255, 244);
+    margin: 50px;
+    padding: 50px;
+    
 }
 
 input {
@@ -61,9 +71,18 @@ button{
         font-size: 20px;
         margin: 20px;
         padding: 25px;
-        border: 1px solid black;
 
+    }
 
+    #titulo{
+        width: 75%;
+        font-size: 40px;
+        margin: 10px;
+        padding: 20px;
+    }
+
+    #edad{
+        width: 40%;
     }
 
     img{
