@@ -1,6 +1,6 @@
 # 🎬 VEO QUÉ VEO
 
-Bienvenido/a a la **aplicación de recomendaciones de cine**, una plataforma diseñada para ayudarte a descubrir la película perfecta según tus gustos. Con solo ingresar tu edad y seleccionar tus géneros favoritos, obtendrás recomendaciones personalizadas de la cartelera actual.
+Bienvenido/a a la **aplicación de recomendaciones de cine**, una plataforma diseñada para ayudarte a descubrir la película perfecta según tus gustos. Con solo ingresar tu edad y seleccionar tus géneros favoritos, obtendrás recomendaciones personalizadas.
 
 ## 📝 Descripción
 
