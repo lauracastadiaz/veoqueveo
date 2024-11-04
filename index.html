@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recomendación de películas en cartelera</title>
+    <link rel="stylesheet" href="estilos.css" type="text/css">
+    <script src="script.js"></script>
+</head>
+
+<body>
+
+    <div id="seccion1">
+
+
+        <h1>🎬 ¡Bienvenidos y bienvenidas a la selección especial de cine de este mes! 🍿</h1>
+        
+        <p>¡Cuéntame un poco más sobre ti! </p>
+        <p>Ingresa tu edad y selecciona tus géneros favoritos, y 
+            me encargaré de recomendarte la película perfecta para ti según mis gustos personales. </p>
+        
+    </div>
+
+    <div id="seccion2">
+        <p>Ingresa tu edad:</p>
+        <input id="edad" type="number">
+        <br><br>
+        <button onclick="recomendar('comedia')">Comedia</button>
+        <button onclick="recomendar('terror')">Terror</button>
+        <button onclick="recomendar('animacion')">Animación</button>
+        <button onclick="recomendar('drama')">Drama</button>
+        <button onclick="recomendar('fantasia')">Fantasía</button>
+        <button onclick="recomendar('musical')">Musical</button>
+        <h3>Mi recomendación:</h3>
+        <p id="recomendacion"></p>
+    </div>
+
+
+</body>
+<br><br><br><br>
+
+</html>
