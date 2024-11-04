@@ -35,7 +35,7 @@ Esta aplicación te ofrece una experiencia de cine única y personalizada. Desde
 ## 💡 Tecnologías Utilizadas
 
 - **Frontend**: HTML5, CSS3
-- **Backend**: javaScript
+- **Backend**: JavaScript
 - **Base de datos**: MongoDB (opcional, si guarda preferencias del usuario)
 - **API de películas**: Conexión a una API de cine como TMDb (The Movie Database)
 
